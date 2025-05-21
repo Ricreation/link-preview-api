@@ -6,6 +6,6 @@
     "start": "vercel dev"
   },
   "dependencies": {
-    "link-preview-js": "^3.2.3"
+    "link-preview-js": "^2.1.16"
   }
 }
